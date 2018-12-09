@@ -8,8 +8,8 @@ A7MD.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 join here please
-                               [ https://discord.gg/xstr5cZ ] 
-الدعووة خاصة لك ... [ ${member}  ]
+                               [ https://discord.gg/cZJUqD ] 
+join and send me your one to join ... [ ${member}  ]
 **`) 
 }).catch(console.error)
 })
